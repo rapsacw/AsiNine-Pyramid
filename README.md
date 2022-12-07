@@ -1,9 +1,9 @@
-# AsiNine Pyramid<br>
+# aSiNine Pyramid<br>
 Schematic and layout in Eagle PCB for a quad bm1387 standalone miner<br>
 // skip if deemed off topic!<br>
 // Other versions made<br>
 // A single BM1391 version, obsolete as information on the asic is too scarce<br>
-// Asinine Pharaonis: dual BM1387 version, compatible with the quad version (this)<br>
+// aSinine Pharaonis: dual BM1387 version, compatible with the quad version (this)<br>
 // Unnamed project single BM1397 (in pre-alpha stage, pcb's are on the slow boat from China)<br>
 <br>
 Motivation:
