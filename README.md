@@ -16,7 +16,8 @@ Properties (concept):
 - Programmable Vcore for the bm1387 asics
 - ws2812 led for special effects ;)
 - max. power usage targeted at ~10-15W
-- Cooling: M.2 SSD cooler or recycled S9 heatsinks, tie-wrapped to the board
+- Cooling: M.2 SSD cooler or recycled S9 heatsinks, tie-wrapped to the board, fan not considered yet.
+- Low(est) cost possible!
 
 Major parts used:
 - 4x BM1387xx asics (tested bm1387bf & bm1387b)
