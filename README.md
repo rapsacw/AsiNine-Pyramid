@@ -8,7 +8,7 @@ Schematic and layout in Eagle PCB for a quad bm1387 standalone miner<br>
 <br>
 Motivation:
 I'm running an ESP32C3 with a RGB LED to monitor traffic (flickers on inbound TX's and glows on memory pool size) to my node.<br>
-Why not let it do something useful?<br>
+Why not let it do something useful while idle?<br>
 <br>
 Properties (concept):
 - Standalone miner to be connected to a mining pool or a private Bitcoin node that will serve the work (over websocket)
@@ -26,9 +26,10 @@ Major parts used:
 - SY8009B step down regulator (overkill) for the esp32c3, limiting the power supply to 5V only..
 - usb-c connector for power (5V) and debugging
 
-Revision
-v0.2 7-12-2022
-* Alpha version, all bugs from v0.1 corrected
-v0.1 29-10-2022
-* pre alpha version
-* Function tested ok after some debugging
+Revision<br>
+v0.2 7-12-2022<br>
+Alpha version, all bugs from v0.1 corrected<br>
+<br>
+v0.1 29-10-2022<br>
+pre alpha version<br>
+Function tested ok after some debugging<br>
