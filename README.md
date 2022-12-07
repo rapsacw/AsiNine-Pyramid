@@ -1,4 +1,4 @@
-# AsiNine-Pyramid<br>
+# AsiNine Pyramid<br>
 Schematic and layout in Eagle PCB for a quad bm1387 standalone miner<br>
 // skip if deemed off topic!<br>
 // Other versions made<br>
