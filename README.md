@@ -34,4 +34,4 @@ Alpha version, all bugs from v0.1 corrected<br>
 v0.1 29-10-2022<br> Debugging stage<br>
 pre alpha version<br>
 Function tested ok after some debugging<br>
-todo: final speccing of decoupling capacitors, fix stability problems (to my knowledge the asics should keep on mining after a nonce roll over, but it doesn't)<br>
+todo: final speccing of decoupling capacitors, fix stability problems (to my knowledge the asics should keep on mining after a nonce roll over, but they don't)<br>
