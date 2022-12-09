@@ -28,10 +28,10 @@ Major parts used:
 - usb-c connector for power (5V) and debugging
 
 Revision<br>
-v0.2 7-12-2022<br> Not actually built/tested yet.
+v0.2 7-12-2022 Not actually built/tested yet.<br>
 Alpha version, all bugs from v0.1 corrected<br>
 <br>
-v0.1 29-10-2022<br> Debugging stage
+v0.1 29-10-2022<br> Debugging stage<br>
 pre alpha version<br>
 Function tested ok after some debugging<br>
 todo: final speccing of decoupling capacitors, fix stability problems (to my knowledge the asics should keep on mining after a nonce roll over, but it doesn't)<br>
