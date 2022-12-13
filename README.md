@@ -27,8 +27,8 @@ Major parts used:
 - SY8009B step down regulator (overkill) for the esp32c3, limiting the power supply to 5V only..
 - usb-c connector for power (5V) and debugging
 
-Revision<br>
-* Don't build anything alpha, components and schematic/layout will change in future revisions. *<br>
+Revisions<br>
+<br>* Don't build anything alpha, components and schematic/layout will change in future revisions. *<br>
 v0.2 7-12-2022 Not actually built/tested yet.<br>
 Alpha version, all bugs from v0.1 corrected<br>
 <br>
