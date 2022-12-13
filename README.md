@@ -34,6 +34,6 @@ Alpha version, all bugs from v0.1 corrected<br>
 <br>
 v0.1 29-10-2022<br> Debugging stage<br>
 pre alpha version<br>
-For the unpublished 2 asic version (Pharaonis): Added a pt8211 DAC to control Vcore instead of a PWM from the esp32c3, the pwm caused some problems during wifi transfers and reconnects. I'm currently working on this version, some results found during testing: power usage ~2.8W @ 20GH/s, so it can be passively cooled<br>
-Function tested ok after some debugging<br>
+For the unpublished 2 asic version (Pharaonis): Added a pt8211 DAC to control Vcore instead of a PWM from the esp32c3, the pwm caused some problems during wifi transfers and reconnects. I'm currently working on this version, some results found during testing: power usage ~2.8W @ 20GH/s, so it can be passively cooled.<br>
+Function tested ok but unstable (related to pwm)<br>
 todo: final speccing of decoupling capacitors, redo some of the power&ground planes, more stability testing.<br>
