@@ -37,4 +37,4 @@ pre alpha version<br>
 (For the unpublished 2 asic version (Pharaonis): Added a pt8211 DAC to control Vcore instead of a PWM from the esp32c3, the pwm caused some problems during wifi transfers and reconnects. I'm currently working on this version, some results found during testing: power usage ~2.8W @ <s>44GH/s</s> ~40GH/s, so it can be passively cooled.)<br>
 !BM1387 apparently only seaches through roughly 4000 mega nonces out of the 4.295 mega nonces available...!
 Function tested ok <s>but unstable (related to pwm)</s><br>
-<s>todo: final speccing of decoupling capacitors, redo some of the power&ground planes, more stability testing, add dac to schematic and layout</s>, change mounting holes for heatsink<br>
+todo: <s>final speccing of decoupling capacitors, redo some of the power&ground planes, more stability testing, add dac to schematic and layout</s>, change mounting holes for heatsink<br>
