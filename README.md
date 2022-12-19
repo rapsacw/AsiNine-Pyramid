@@ -19,7 +19,7 @@ Properties (concept):
 - Programmable Vcore for the bm1387 asics
 - ws2812 led for special effects ;)
 - max. power usage targeted at ~10-15W
-- Cooling: M.2 SSD cooler or recycled S9 heatsinks, tie-wrapped to the board, fan not considered yet.
+- Cooling: M.2 SSD cooler, tie-wrapped to the board with 5V fan.
 - Low(est) cost possible!
 
 Major parts used:
@@ -32,8 +32,8 @@ Major parts used:
 
 Revisions<br>
 <br>* Don't build anything alpha, components and schematic/layout will change in future revisions. *<br>
-v0.2-alpha (see tag) 7-12-2022 upto today<br> Not actually built/tested yet.<br>
-All bugs from v0.1 corrected<br>
+v0.2-alpha (see tag) 7-12-2022 upto today<br> Not actually build/tested yet.<br>
+All bugs from v0.1 corrected.<br>
 Included dac to control Vcore (in 19.2uV steps, overkill).<br>
 Added temperature sensor (not yet calibrated or tested).<br>
 Added fan (5V only) with  pwm control.<br>
