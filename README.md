@@ -37,11 +37,12 @@ All bugs from v0.1 corrected.<br>
 Included dac to control Vcore (in 19.2uV steps, overkill).<br>
 Added temperature sensor (not yet calibrated or tested).<br>
 Added fan (5V only) with  pwm control.<br>
-No more hardware changes anticipated!<br>
+No more (big) hardware changes anticipated.<br>
+No more (big) layout changes aticipated.<br>
 <br>
 v0.1 29-10-2022<br> Debugging stage<br>
 pre alpha version<br>
 (For the unpublished 2 asic version (Pharaonis): Added a pt8211 DAC to control Vcore instead of a PWM from the esp32c3, the pwm caused some problems during wifi transfers and reconnects. I'm currently working on this version, some results found during testing: power usage ~2.8W @ <s>44GH/s</s> ~40GH/s, so it can be passively cooled.)<br>
 !BM1387 apparently only seaches through roughly 4000 mega nonces out of the 4.295 mega nonces available...!<br>
 Function tested ok <s>but unstable (related to pwm)</s><br>
-todo: <s>final speccing of decoupling capacitors, redo some of the power&ground planes, more stability testing, add dac to schematic and layout</s>, change mounting holes for heatsink.<br>
+todo: <s>final speccing of decoupling capacitors, redo some of the power&ground planes, more stability testing, add dac to schematic and layout, change mounting holes for heatsink</s>.<br>
