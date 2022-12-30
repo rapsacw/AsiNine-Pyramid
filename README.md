@@ -37,8 +37,9 @@ All bugs from v0.1 corrected.<br>
 Included dac to control Vcore (in 19.2uV steps, overkill).<br>
 Added temperature sensor (not yet calibrated or tested).<br>
 Added fan (5V only) with  pwm control.<br>
+Added feedback of Vcore to the ESP32 to calibrate the power supply.<br>
 No more (big) hardware changes anticipated.<br>
-No more (big) layout changes aticipated.<br>
+<s>No more (big) layout changes aticipated.</s> Ok, now though.<br>
 <br>
 v0.1 29-10-2022<br> Debugging stage<br>
 pre alpha version<br>
