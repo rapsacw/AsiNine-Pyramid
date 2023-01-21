@@ -1,6 +1,3 @@
-This project is being hampered ( again :( ) by lack of information. I would really appreciate it if someone could mail me a copy of https://github.com/braiins/braiins/blob/bos-devel/open/bosminer/bosminer-am1-s9/src/bm1387.rs, https://github.com/braiins/braiins/blob/3c1a16f9b21b7b5b2be123ada13b1b22061519ba/open/hw/zynq-io-am1-s9/design/src/ip_cores/axi_bm13xx/fve/axi_bm13xx_tb.sv or better yet a zipped copy of that braiins-open release that contained those files and are no longer available.
-
-
 # aSiNine Pyramid<br>
 Schematic and layout in Eagle PCB for a quad bm1387 standalone miner<br>
 // skip if deemed off topic!<br>
